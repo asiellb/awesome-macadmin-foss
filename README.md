@@ -56,6 +56,7 @@ you could [vote for it](https://github.com/humboldtux/awesome-macadmin-foss/pull
 
 ### Scripts
 
+- https://github.com/argon/mas
 - https://github.com/rmanly/scripts
 - https://github.com/MacSysadmin/pymacadmin
 - https://github.com/google/macops
@@ -76,7 +77,7 @@ you could [vote for it](https://github.com/humboldtux/awesome-macadmin-foss/pull
 - https://github.com/google/santa
 - https://github.com/grahamgilbert/Crypt
 - https://github.com/amsysuk/psu
-
+- https://github.com/timsutton/python-macadmin-tools
 
 ## People
 
@@ -90,6 +91,9 @@ you could [vote for it](https://github.com/humboldtux/awesome-macadmin-foss/pull
 - https://macadmins.slack.com https://macadmins.herokuapp.com/ https://github.com/macadminsdotorg
 - https://github.com/macadmins https://hub.docker.com/u/macadmins/
 - https://github.com/jamf
+- https://managingosx.wordpress.com/
+- https://github.com/gregneagle
+- http://podcast.macadmins.org/
 
 
 ### Conferences
@@ -100,12 +104,14 @@ you could [vote for it](https://github.com/humboldtux/awesome-macadmin-foss/pull
 
 ### Blogs and Twitter
 
+- https://apple.lib.utah.edu
+- https://apple.lib.utah.edu/?page_id=16
 - https://github.com/tbridge
 - https://github.com/bruienne https://twitter.com/bruienne http://enterprisemac.bruienne.com/
 - https://github.com/hjuutilainen
 - https://derflounder.wordpress.com/
 - https://github.com/grahamgilbert
-
+- https://github.com/timsutton?tab=repositories https://macops.ca
 
 ## Misc
 
@@ -123,3 +129,41 @@ you could [vote for it](https://github.com/humboldtux/awesome-macadmin-foss/pull
 - https://github.com/nmcspadden/Sal-WHDImport
 - http://netatalk.sourceforge.net/
 - https://github.com/macjustice/awesome-macadmin
+- https://developer.apple.com/downloads/
+- http://www.opensource.apple.com/
+- https://developer.apple.com/opensource/
+- https://www.macports.org/
+- https://macops.ca/python-for-mac-admins-session-resources
+- https://macops.ca/links
+- https://github.com/timsutton/python-macadmin-tools
+- https://macops.ca/smorgasbord
+
+## update management
+
+- munki
+- munki adminmunki server
+- mandrill
+- reposado
+- margarita
+
+## config and reporting
+
+puppet
+chef
+ansible
+munki reports
+sal
+crypt
+
+## integration tools
+
+autodmg
+autopkg
+bsdpy
+jsssimporter
+patchoo
+
+## netinstall server
+
+bdspy
+netsus
